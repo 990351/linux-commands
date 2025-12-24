@@ -1,0 +1,19 @@
+ls -show list
+pwd -> show present directory
+cd -> change directory 
+mkdir -> create folder 
+touch & cat -> create txt file
+ssh -> create code file 
+rm -> delete 
+cp -> copy 
+mv -> move
+chmod -> user permission 
+     read (r) - 4
+     write (w) - 2
+     excute (x) - 1
+which -> check the cmd 
+    sbin : only root  use this cmd 
+    bin  : user and root  use this cmd
+/etc/passwd -> user information file
+/etc/group -> group information file 
+/etc/shadow -> password information file
